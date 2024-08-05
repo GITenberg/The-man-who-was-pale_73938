@@ -1,0 +1,46 @@
+_repo: The-man-who-was-pale_73938
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Summers, Leo
+    aliases:
+    - Summers, L.R.
+    - Summers, L. R.
+    - Summers, Leo Ramon
+    birthdate: 1925
+    deathdate: 1985
+    gutenberg_agent_id: '26735'
+    url: http://www.gutenberg.org/2009/agents/26735
+creator:
+  author:
+    agent_name: Sharkey, Jack
+    alias: Sharkey, John Michael
+    birthdate: 1931
+    deathdate: 1992
+    gutenberg_agent_id: '32269'
+    url: http://www.gutenberg.org/2009/agents/32269
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Sharkey_(playwright)
+description: ''
+gutenberg_issued: '2024-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73938'
+language: en
+pgterms:marc905: 20240507070610sharkey
+pgterms:marc906: '1959'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1959.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Landlord and tenant -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The man who was pale
+url: http://www.gutenberg.org/ebooks/73938
