@@ -11,6 +11,9 @@ contributor:
     deathdate: 1985
     gutenberg_agent_id: '26735'
     url: http://www.gutenberg.org/2009/agents/26735
+covers:
+- cover_type: archival
+  image_path: 73938-h/images/cover.jpg
 creator:
   author:
     agent_name: Sharkey, Jack
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32269
     wikipedia: https://en.wikipedia.org/wiki/Jack_Sharkey_(playwright)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73938#The-man-who-was-pale
 gutenberg_issued: '2024-06-28'
 gutenberg_type: Text
 identifiers:
